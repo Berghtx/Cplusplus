@@ -16,6 +16,7 @@ int main() {
     int N; cin >> N;
 
     cout << fat(N) << endl; 
+    cout << "mudei algumas coisa aqui" << endl;
 
     return 0;
 }
